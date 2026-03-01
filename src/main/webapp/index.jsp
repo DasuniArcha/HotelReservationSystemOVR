@@ -18,7 +18,7 @@
                 <!-- Header -->
                 <header>
                     <h1>Ocean View Resort</h1>
-                    <p>Room Reservation System</p>
+                    <p>Room Reservation System - Galle</p>
                 </header>
 
                 <!-- Messages -->
@@ -142,5 +142,6 @@
             </script>
             <script src="${pageContext.request.contextPath}/app.js"></script>
         </body>
+
 
         </html>
